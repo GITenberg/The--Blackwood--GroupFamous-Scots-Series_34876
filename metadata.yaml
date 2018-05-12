@@ -1,0 +1,38 @@
+_repo: The--Blackwood--GroupFamous-Scots-Series_34876
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34876-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, George
+    aliases:
+    - Scott-Douglas, George Brisbane
+    - Douglas, George Brisbane, Sir, bart.
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '37296'
+    url: http://www.gutenberg.org/2009/agents/37296
+    wikipedia: https://en.wikipedia.org/wiki/George_Brisbane_Scott_Douglas
+description: John Wilson; John Galt; D. M. Moir (Delta); Miss Ferrier; Michael Scott;
+  Thomas Hamilton.
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 13
+subjects:
+- !lcsh 'Galt, John, 1779-1839'
+- !lcc 'PR'
+- !lcsh 'Scott, Michael, 1789-1835'
+- !lcsh 'Wilson, John, 1785-1854'
+- !lcsh 'Hamilton, Thomas, 1789-1842'
+- !lcsh 'Ferrier, Susan, 1782-1854'
+- !lcsh 'Moir, D. M. (David Macbeth), 1798-1851'
+title: The 'Blackwood' Group
+url: http://www.gutenberg.org/ebooks/34876
